@@ -18,3 +18,6 @@ Thanks to the creators of [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 ## Screenshot:
 ![Screenshot 2023-11-22 at 5 54 36 PM](https://github.com/FrakesH/i3-10105F-GTX-970-B460M-Sonoma-Hackintosh/assets/104097126/be6662c5-11c0-445a-8cbe-713eaf75815a)
+
+tags:
+i3 10105f,i3 10100f,i3 10100f opencore,opencore,gtx 970 opencore,hackintosh,opencore legacy patcher,opencore legacy patcher gtx 970,gtx 970 hackintosh,i3 10100f gtx 970 opencore,i3 10105f gtx 970 opencore,i3 10100f gtx 970 hackintosh,b460m hackintosh,b460m ds3h opencore, b460m hackintosh opencore,b460 ds3h hackintosh opencore,config.plist,config b460m,config b460m ds3h opencore,config b460m ds3h,config.plist b460m ds3h,config i3 10100f opencore, config gtx 970 opencore, plist 970 opencore.
