@@ -1,0 +1,1 @@
+# i3-10105F-GTX-970-B460M-Sonoma-Hackintosh
